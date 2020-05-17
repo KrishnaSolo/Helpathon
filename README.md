@@ -4,7 +4,7 @@ project
 **Site:https://helpathon.tech/
 
 ## TechStack
-**This Project was created with [techstack list]**
+**This Project was created with  CSS,HTML, React, JS, Google cloud -Firebase and DialogFlow **
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Features
@@ -25,7 +25,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Pictures
 
-
+![Image of Site](https://octodex.github.com/images/yaktocat.png)
 
 ## Available Scripts
 
