@@ -1,7 +1,7 @@
 # Helpathon
 Hackathon Planner for the Ryerson University Hackathon
 project
-**Site:https://helpathon.tech/
+**Site:https://helpathon.tech/**
 
 ## TechStack
 **This Project was created with  CSS,HTML, React, JS, Google cloud -Firebase and DialogFlow **
@@ -25,7 +25,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Pictures
 
-![Image of Site](https://octodex.github.com/images/yaktocat.png)
+![Image of Site](https://github.com/KrishnaSolo/Helpathon/blob/master/site.png)
+![Image of BOT](https://github.com/KrishnaSolo/Helpathon/blob/master/AI-Bot.png)
 
 ## Available Scripts
 
