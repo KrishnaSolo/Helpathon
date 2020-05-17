@@ -25,8 +25,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Pictures
 
+**Site View:**
 ![Image of Site](https://github.com/KrishnaSolo/Helpathon/blob/master/site.png)
+**AI Bot for User:**
 ![Image of BOT](https://github.com/KrishnaSolo/Helpathon/blob/master/AI-Bot.png)
+**Dashboard for Organizers:**
+![Image of Dashboard](https://github.com/KrishnaSolo/Helpathon/blob/master/dashboard.png)
+**Event Application Form Generator:**
+![Image of AppForm](https://github.com/KrishnaSolo/Helpathon/blob/master/appform.png)
 
 ## Available Scripts
 
